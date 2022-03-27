@@ -13,7 +13,7 @@ I am looking to **collaborate** on some open source project or technology to enh
 
 ---
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/54855093/160256385-ecdcdfde-2d14-48e1-8ec5-52991684eb20.gif" width="450" height="320" />  
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/54855093/160256385-ecdcdfde-2d14-48e1-8ec5-52991684eb20.gif" width="450" height="290" />  
 
 - :mailbox: How to reach me: <a href="https://twitter.com/deividCoder">Twitter</a>, <a href="www.linkedin.com/in/jose-quintero-martinez">Linkedin</a>
 - :briefcase: I am currently working on projects for my **portfolio**, you can go through my repository and take a look at them :eyes:
